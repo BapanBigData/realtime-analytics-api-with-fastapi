@@ -1,0 +1,12 @@
+numpy
+pandas
+fastparquet
+scikit-learn
+seaborn
+xgboost
+scipy
+optuna
+imbalanced-learn
+lime
+shap
+pydantic

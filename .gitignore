@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+features/training_set/*
+outputs/logs/*
+outputs/models/*
+outputs/scaler_stats/*
